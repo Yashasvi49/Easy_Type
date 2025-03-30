@@ -1,10 +1,10 @@
-# Bloggies
+# EasyType
 
 ## Description
 
 We have built a CRM model based blogging website where users can upload blogs, edit them and like.This site uses [React](https://react.dev/) for frontend. 
 
-- The motivation behind our project was to create a dynamic and engaging platform for users to access and interact with high-quality blog content. We wanted to provide a space where users could easily discover, consume, and engage with content on topics of interest to them, while also fostering a sense of community and interaction among users.
+- The motivation behind our project was to create a dynamic and engaging platform for users to access and interact with high-quality blog content. We wanted to provide a space where users could easily discover, consume, and engage with content on topics of interest to them, while also fostering a sense of community and interaction among users. We have also added a AI Chatbot EzBot as an assistant for users to search their queries.
 
 -  Our goal was to create a platform where users could easily discover, consume, and engage with high-quality blog content on topics of interest to them.
 
