@@ -25,6 +25,8 @@ function Input({ value, onChange, onSubmit, type, placeholder, icon, updateButto
     <form className={inputParentClass} onSubmit={handleSubmit}>
       <ReactIcon src={icon} color="#fff" />
 
+      {/* this is for handling input change */}
+
       <input className={inputClass} placeholder={placeholder} type={(showPassword || type !== 'password') ? 'text' : 'password'}
         value={value} onInput={(event) => { onChange(event.target.value) }} maxLength={100} />
 
